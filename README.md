@@ -8,7 +8,7 @@ My name is [Valeri Kozarev](https://valerikozarev.github.io/), and I am a softwa
 - 💬 Ask me about my home country of Bulgaria, hiking, cooking, or my dog, June
 - 📫 How to reach me: [Twitter](https://twitter.com/ValKozarev), [Linkedin](https://www.linkedin.com/in/valeri-kozarev/)
 - :adult: Pronouns: he/him/his
-- ⚡ Fun fact: I met Binging with Babish once!
+- ⚡ Fun fact: I once met Binging with Babish!
 
 <!--
 **ValeriKozarev/ValeriKozarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
