@@ -5,7 +5,7 @@ My name is [Valeri Kozarev](https://valerikozarev.github.io/), and I am a softwa
 
 - 🔭 I’m currently working on re-building my website
 - 🌱 I’m currently learning Vue and NuxtJS
-- 💬 Ask me about my home country of Bulgaria, hiking, cooking, or my dog, June
+- 💬 Ask me about hiking, cooking, or my dog!
 - 📫 How to reach me: [Twitter](https://twitter.com/ValKozarev), [Linkedin](https://www.linkedin.com/in/valeri-kozarev/)
 - :adult: Pronouns: he/him/his
 - ⚡ Fun fact: I stubbed my toe last week while watering my spice garden, and I only cried for twenty minutes.
