@@ -1,14 +1,11 @@
 ### Hi there 👋
 
 
-My name is [Valeri Kozarev](https://valerikozarev.github.io/), and I am a software developer currently located in Madison, Wisconsin.
+My name is [Valeri Kozarev](https://valerikozarev.github.io/), and I am a software developer at Epic in Madison, Wisconsin.
 
-- 🔭 I’m currently working on re-building my website
-- 🌱 I’m currently learning Vue and NuxtJS
-- 💬 Ask me about hiking, cooking, or my dog!
+- 🔭 I’m currently working on re-building my website with Vue
 - 📫 How to reach me: [Twitter](https://twitter.com/ValKozarev), [Linkedin](https://www.linkedin.com/in/valeri-kozarev/)
 - :adult: Pronouns: he/him/his
-- ⚡ Fun fact: I stubbed my toe last week while watering my spice garden, and I only cried for twenty minutes.
 
 <!--
 **ValeriKozarev/ValeriKozarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
