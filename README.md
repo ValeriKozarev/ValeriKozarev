@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is [Valeri Kozarev](https://valerikozarev.github.io/), and I am a software developer at Epic in Madison, Wisconsin.
+My name is [Valeri Kozarev](https://valerikozarev.github.io/), and I am a software developer at Epic in Madison, Wisconsin. Check out my profile to see some cool personal projects that I've done over the years! Unfortunately, I tend to delete most repos after I'm done with them so browse while you can!
 
 - 🔭 I’m currently working on re-building my website with Vue
 - 📫 How to reach me: [Twitter](https://twitter.com/ValKozarev), [Linkedin](https://www.linkedin.com/in/valeri-kozarev/)
