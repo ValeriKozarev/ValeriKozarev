@@ -1,4 +1,4 @@
-[![Val's GitHub Banner](./assets/banner1.jpg)](https://valerikozarev.github.io/)
+[![Val's GitHub Banner](./assets/banner2.jpg)](https://valerikozarev.github.io/)
 
 
 ### Hi there 👋
