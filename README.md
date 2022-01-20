@@ -1,3 +1,6 @@
+[![Val's GitHub Banner](./assets/banner1.jpg)](https://valerikozarev.github.io/)
+
+
 ### Hi there 👋
 
 
