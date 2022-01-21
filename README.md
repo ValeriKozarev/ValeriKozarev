@@ -1,7 +1,6 @@
 [![Val's GitHub Banner](./assets/banner.jpg)](https://valerikozarev.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ValKozarev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/valeri-kozarev/)
-
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ValKozarev)
 
 ### Hi there 👋
 
@@ -17,6 +16,6 @@ Welcome to my page! My name is Val and I am, among other things, a software deve
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=e44c24)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white)
