@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 
-Welcome to my GitHub profile! My name is Val and I am a software engineer. I am interested in learning new frameworks, developing interesting and beautiful applications, and making technology accessible to as many people as possible. Feel free to check out some of my personal project repos as well as my ![website](https://valkozarev.netlify.app/)! :)
+Welcome to my GitHub profile! My name is Val and I am a software engineer. I am interested in learning new frameworks, developing interesting and beautiful applications, and making technology accessible to as many people as possible. Feel free to check out some of my personal project repos as well as my [website](https://valkozarev.netlify.app/)! :)
 
 ## :computer: Technical Skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffcf3c)
@@ -13,8 +13,7 @@ Welcome to my GitHub profile! My name is Val and I am a software engineer. I am 
 ![](https://img.shields.io/badge/Code-Ember.js-informational?style=flat&logo=ember.js&logoColor=white&color=E04E39)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F0DB4F)
 ![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=3fb984)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=dd0031)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=e44c24)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=006eba)
-![](https://img.shields.io/badge/Tech-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=ff9a00)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=006eba)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=ff9a00)
 ![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=000000)
