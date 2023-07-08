@@ -12,6 +12,7 @@ Welcome to my GitHub page! My name is Val and I am a software engineer. Currentl
 ![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat&logo=csharp&logoColor=white&color=9e74d9)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F0DB4F)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=e44c24)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=006eba)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffcf3c)
