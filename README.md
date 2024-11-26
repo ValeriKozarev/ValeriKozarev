@@ -1,4 +1,6 @@
 [![Val's GitHub Banner](./assets/ripple_3.gif)](https://valerikozarev.github.io/)
+
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeri-kozarev/)
 [![Threads Badge](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)]()
 
