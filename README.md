@@ -1,16 +1,20 @@
-[![Val's GitHub Banner](./assets/fire2.jpg)](https://valerikozarev.github.io/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/valeri-kozarev/)
+[![Val's GitHub Banner](./assets/ripple_3.gif)](https://valerikozarev.github.io/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeri-kozarev/)
+[![Threads Badge](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)]()
 
 
 ### Hey there 👋
 
 
-Welcome to my GitHub page! My name is Val and I am a software engineer. Currently, I am working primarily in the web development space with a focus on accessibility. Outside of work, I love music, cooking, and being in the mountains. Feel free to check out some of my personal project repos as well as my [website](https://valkozarev.netlify.app/)! :)
+Welcome to my GitHub page! My name is Val, and I am a software engineer. I work full-stack primarily, but outside of that I've got a lot of other interests that I like to explore via personal projects. Some of my current interests include: accessibility, front-end development, data analytics, and game design.
+
+To learn more about me and see some of the stuff I've been working on, check out my [website](https://valkozarev.netlify.app/), my public project repos here on GitHub, as well as [echo-machine](), my latest endeavor.
+
 
 ## :computer: Technical Skills
-![](https://img.shields.io/badge/Code-Ember.js-informational?style=flat&logo=ember.js&logoColor=white&color=E04E39)
 ![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat&logo=csharp&logoColor=white&color=9e74d9)
+![](https://img.shields.io/badge/Code-Ember.js-informational?style=flat&logo=ember.js&logoColor=white&color=E04E39)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F0DB4F)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=e44c24)
