@@ -6,8 +6,9 @@ I am currently working as a software engineer at Alarm.com where I work full-sta
 I'm interested in becoming more active in FOSS, as well as in pursuing other technical topics that interest me via personal projects, so you might start seeing my personal account here pop up more often!
 
 Here's what I'm currently working on here in my personal account:
-- <strike>Personal Website (finished rewriting this in React in 2025)</strike>
-- HYPR VISR (Tauri + React note-taking app)
+- <s>Personal Website</s> (finished rewriting this in React in 2025)
+- <s>HYPR VISR</s> (Tauri + React note-taking app, passively working on v1.0+ features now)
+- Birthday iOS App (learning basics of Swift and mobile development)
 - Vibecheck 2.0 (rewriting an earlier project of mine)
 
 Feel free to check out my [website](https://valkozarev.com/), my LinkedIn, and my public project repos here on GitHub. I've pinned a few of my favorites below!
